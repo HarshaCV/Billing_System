@@ -1,6 +1,6 @@
 # Billing_System
 
-This is a simple projects which can be used for billing in general stores,canteens and small scale shops.
+This is a simple project which can be used for billing in general stores,canteens and small scale shops.
 the project is built on python.
 
 #Installation process
